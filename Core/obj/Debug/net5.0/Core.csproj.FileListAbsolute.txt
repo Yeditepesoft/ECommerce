@@ -1,0 +1,12 @@
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Core/bin/Debug/net5.0/Core.deps.json
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Core/bin/Debug/net5.0/Core.dll
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Core/bin/Debug/net5.0/ref/Core.dll
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Core/bin/Debug/net5.0/Core.pdb
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Core/obj/Debug/net5.0/Core.csprojAssemblyReference.cache
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Core/obj/Debug/net5.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Core/obj/Debug/net5.0/Core.AssemblyInfoInputs.cache
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Core/obj/Debug/net5.0/Core.AssemblyInfo.cs
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Core/obj/Debug/net5.0/Core.dll
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Core/obj/Debug/net5.0/ref/Core.dll
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Core/obj/Debug/net5.0/Core.pdb

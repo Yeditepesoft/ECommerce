@@ -1,0 +1,17 @@
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/bin/Debug/net5.0/Business.deps.json
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/bin/Debug/net5.0/Business.dll
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/bin/Debug/net5.0/ref/Business.dll
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/bin/Debug/net5.0/Business.pdb
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/obj/Debug/net5.0/Business.csprojAssemblyReference.cache
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/obj/Debug/net5.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/obj/Debug/net5.0/Business.AssemblyInfoInputs.cache
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/obj/Debug/net5.0/Business.AssemblyInfo.cs
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/obj/Debug/net5.0/Business.csproj.CoreCompileInputs.cache
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/obj/Debug/net5.0/Business.dll
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/obj/Debug/net5.0/ref/Business.dll
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/obj/Debug/net5.0/Business.pdb
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/bin/Debug/net5.0/Core.dll
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/bin/Debug/net5.0/DataAccess.dll
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/bin/Debug/net5.0/DataAccess.pdb
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/bin/Debug/net5.0/Core.pdb
+/Volumes/D/Projects/Microsoft/Ders/ECommerce/Business/obj/Debug/net5.0/Business.csproj.CopyComplete
